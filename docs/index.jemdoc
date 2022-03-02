@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: title{Changjian Shui's Homepage}
+# jemdoc: nodate
+
+~~~
+# {}{img_left}{./photos/resume-photo.jpg}{resume-photo}{155px}{200px}{}
+
+= Changjian Shui
+
+Ph.D. \n
+[https://www.gelgif.ulaval.ca/accueil/  Department of Electrical Engineering and Computer Engineering],\n
+[https://www.ulaval.ca/en/ Université Laval], [https://mila.quebec/en/person/changjian-shui/ Mila] \n
+
+*E-mail*: jmdbsa0012 AT gmail DOT com *or* changjian DOT shui DOT 1 AT ulaval DOT ca \n
+\[[https://scholar.google.com/citations?user=r91NXUgAAAAJ&hl=en Google Scholar]\]
+~~~
+
+== About me
+
+I recently obtained Ph.D. degree from Université Laval, under supervision of Prof. [https://chgagne.github.io/english/ Christian Gagné] and Prof. [https://sites.google.com/site/borriewang/ Boyu Wang].
+
+My current research interests lie in both theoretical and practical aspects of machine learning.
+In particular, I am interested in distribution shift and its applications in learning limited label data (e.g., transfer learning, meta-learning and active learning), algorithmic fairness and health.
+
+== News
+#- \[Sept. 2020\] Example of {{<font color=red>}}Red Words{{</font>}}
+#- \[Sept. 2020\] Example of {{<font color=red><b>}}Red Bold Words{{</b></font>}}
+- \[Feb 2022\] I passed the Ph.D thesis defense.

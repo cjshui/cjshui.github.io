@@ -1,0 +1,48 @@
+# jemdoc: menu{MENU}{publications.html}{../}
+# jemdoc: title{Research}
+# jemdoc: nodate
+# jemdoc: addcss{../jemdoc.css}
+
+== Research Activies
+
+- Conference Reviewer:  AAAI (Top 25% Reviewer 21'), AISTATS, ICLR (Outstanding Reviewer 21'), ICML (Best Reviewer 21'), NeurIPS (Best Reviewer 21')
+- Journal Reviewer: Machine Learning Journal, IEEE Trans on Image Processing, IEEE Trans on Pattern Analysis and Machine Intelligence, Transactions on Machine Learning Research
+
+
+== Recent Papers
+
+- On the Benefits of Representation Regularization in Invariance based Domain Generalization.\n
+*Changjian Shui*, Boyu Wang, and Christian Gagné.\n
+Machine Learning Journal 2022.\n
+\[[https://link.springer.com/article/10.1007/s10994-021-06080-w Paper]\]
+\[[https://slideslive.com/38970376/on-the-benefits-of-representation-regularization-in-invariance-based-domain-generalization?ref=speaker-35470-latest Video]\] \n
+
+
+- Generalization Bounds For Meta-Learning: An Information-Theoretic Analysis. \n
+Qi Chen, *Changjian Shui*, Mario Marchand \n
+NeurIPS 2021. (Spotlight, 3% of submissions) \n
+\[[https://openreview.net/forum?id=9J2wV5E1Aq_  Openreview]\]
+
+
+== Other Highlighted Papers
+
+- Aggregating From Multiple Target-Shifted Sources.\n
+*Changjian Shui*, Zijian Li, Jiaqi Li, Christian Gagné, Charles Ling, Boyu Wang.\n
+ICML 2021.\n
+\[[https://arxiv.org/abs/2105.04051 Arxiv]\] \[[https://github.com/cjshui/WADN Code]\] \[[Files/icml_presentation.pdf Slides]\]
+\[[https://slideslive.com/38959459/aggregating-from-multiple-targetshifted-sources?ref=speaker-35470-latest Video]\] \n
+
+
+- Deep Active Learning: Unified and Principled Method for Query and Training. \n
+*Changjian Shui*, Fan Zhou, Christian Gagné, Boyu Wang \n
+AISTATS 2020. \n
+\[[https://arxiv.org/abs/1911.09162  Arxiv]\] \[[https://github.com/cjshui/WAAL  Code]\] \[[Files/deep_active_aistat.pdf Slides]\]
+\[[https://slideslive.com/38930068/deep-active-learning-unified-and-principled-method-for-query-and-training?ref=speaker-35470-latest  Video]\]
+
+- A principled approach for learning task similarity in multitask learning. \n
+*Changjian Shui*, Mahdieh Abbasi, Louis-Émile Robitaille, Boyu Wang, Christian Gagné \n
+IJCAI 2019. \n
+\[[https://arxiv.org/abs/1903.09109  Arxiv]\]  \[[https://github.com/cjshui/AMTNN Code]\] \[[Files/IJCAI19.pdf Slides]\]
+
+
+
