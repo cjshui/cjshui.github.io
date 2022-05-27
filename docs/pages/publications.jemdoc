@@ -11,16 +11,21 @@
 
 == Recent Papers
 
+- Fair Representation Learning through Implicit Path Alignment.\n
+*Changjian Shui*, Qi Chen, Jiaqi Li, Boyu Wang, Christian Gagné.\n
+ICML 2022.\n
+\[[https://arxiv.org/abs/2205.13316 Paper]\]\n
+
+
+
+== Other Highlighted Papers
+
 - On the Benefits of Representation Regularization in Invariance based Domain Generalization.\n
 *Changjian Shui*, Boyu Wang, and Christian Gagné.\n
 Machine Learning Journal 2022.\n
 \[[https://link.springer.com/article/10.1007/s10994-021-06080-w Paper]\]
 \[[https://slideslive.com/38970376/on-the-benefits-of-representation-regularization-in-invariance-based-domain-generalization?ref=speaker-35470-latest Video]\]
 \[[Files/reg.txt Simple Code Demo]\]\n
-
-
-
-== Other Highlighted Papers
 
 - Generalization Bounds For Meta-Learning: An Information-Theoretic Analysis. \n
 Qi Chen, *Changjian Shui*, Mario Marchand \n
