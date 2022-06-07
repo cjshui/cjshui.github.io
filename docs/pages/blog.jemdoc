@@ -1,0 +1,9 @@
+# jemdoc: menu{MENU}{blog.html}{../}
+# jemdoc: title{Blog}
+# jemdoc: nodate
+# jemdoc: addcss{../jemdoc.css}
+
+== Blogs
+
+- [inv_fair.html Invariance and Learning Fair Representation] \n
+
