@@ -4,7 +4,7 @@
 # jemdoc: addcss{../jemdoc.css}
 
 == Research Activies
-
+- Area Chair: AISTATS
 - Conference Reviewer:  AAAI (Top 25% Reviewer 21'), AISTATS, ACML, ICLR, ICML, NeurIPS
 - Journal Reviewer: Machine Learning Journal, IEEE Trans on Image Processing, IEEE Trans on Pattern Analysis and Machine Intelligence, Transactions on Machine Learning Research
 
@@ -18,16 +18,24 @@
 
 == Recent Papers
 
+- Lifelong Online Learning from Accumulated Knowledge. \n
+*Changjian Shui*, Wei Wang, Ihsen Hedhli, Feng Wang, Boyu Wang, and Christian Gagné.\n
+ACM Transactions on Knowledge Discovery from Data (TKDD) 2022. (Accepted) \n
+
+- A Novel Domain Adaptation Theory With Jensen-Shannon Divergence. \n
+*Changjian Shui*, Qi Chen, Jun Wen, Fan Zhou, Christian Gagné, and Boyu Wang. \n
+Knowledge-Based Systems (KBS) 2022. (Accepted) \n
+
+
+
+== Other Highlighted Papers
+
 - Fair Representation Learning through Implicit Path Alignment.\n
 *Changjian Shui*, Qi Chen, Jiaqi Li, Boyu Wang, Christian Gagné.\n
 ICML 2022.\n
 \[[https://arxiv.org/abs/2205.13316 Paper]\]
 \[[https://github.com/cjshui/fair-path Code]\]
 \[[Files/fair_path_short.pdf Slides]\] \n
-
-
-
-== Other Highlighted Papers
 
 - On the Benefits of Representation Regularization in Invariance based Domain Generalization.\n
 *Changjian Shui*, Boyu Wang, and Christian Gagné.\n
