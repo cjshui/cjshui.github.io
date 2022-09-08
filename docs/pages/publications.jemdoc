@@ -10,69 +10,103 @@
 
 == Awards
 
-- Outstanding Reviewer, ICLR 2021
-- Best Reviewer, ICML 2021
-- Outstanding Reviewer, NeurIPS 2021
-- Highlighted Reviewer, ICLR 2022
+- Outstanding Reviewer (Top 10%), ICLR 2021
+- Best Reviewer (Top 10%), ICML 2021
+- Outstanding Reviewer (Top 8%), NeurIPS 2021
+- Highlighted Reviewer (Top 10%), ICLR 2022
+
+== Publications
+{{<font color=blue>}} * Blue indicates the selected publication.{{</font>}}
+
+=== Trustworthy Machine Learning (Fairness, Out-of-distribution generalization)
+
+- {{<font color=blue>}} Fair Representation Learning through Implicit Path Alignment. {{</font>}}\n
+*Changjian Shui*, Qi Chen, Jiaqi Li, Boyu Wang, Christian Gagné.\n
+International Conference on Machine Learning (ICML) 2022.\n
+\[[https://arxiv.org/abs/2205.13316 Paper]\]
+\[[https://github.com/cjshui/fair-path Code]\]
+\[[Files/fair_path_short.pdf Slides]\] \n
+
+- {{<font color=blue>}} On the Benefits of Representation Regularization in Invariance based Domain Generalization.{{</font>}}\n
+*Changjian Shui*, Boyu Wang, and Christian Gagné.\n
+Machine Learning Journal (MLJ) 2022.\n
+\[[https://link.springer.com/article/10.1007/s10994-021-06080-w Paper]\]
+\[[https://slideslive.com/38970376/on-the-benefits-of-representation-regularization-in-invariance-based-domain-generalization?ref=speaker-35470-latest Video]\]
+\[[Files/reg.txt Simple Code Demo]\]\n
 
 
-== Recent Papers
+=== Transfer, Meta and Multitask Learning
+
+- {{<font color=blue>}} Generalization Bounds For Meta-Learning: An Information-Theoretic Analysis.{{</font>}}\n
+Qi Chen, *Changjian Shui*, Mario Marchand \n
+Neural Information Processing Systems (NeurIPS) 2021.  ({{<font color=red>}}Spotlight, 3% of submissions{{</font>}}) \n
+\[[https://openreview.net/forum?id=9J2wV5E1Aq_  Openreview]\]
+
+- {{<font color=blue>}} Aggregating From Multiple Target-Shifted Sources.{{</font>}} \n
+*Changjian Shui*, Zijian Li, Jiaqi Li, Christian Gagné, Charles Ling, Boyu Wang.\n
+International Conference on Machine Learning (ICML) 2021.\n
+\[[https://arxiv.org/abs/2105.04051 Arxiv]\] \[[https://github.com/cjshui/WADN Code]\] \[[Files/icml_presentation.pdf Slides]\]
+\[[https://slideslive.com/38959459/aggregating-from-multiple-targetshifted-sources?ref=speaker-35470-latest Video]\] \n
+
+- {{<font color=blue>}} A principled approach for learning task similarity in multitask learning. {{</font>}}\n
+*Changjian Shui*, Mahdieh Abbasi, Louis-Émile Robitaille, Boyu Wang, Christian Gagné \n
+International Joint Conference on Artificial Intelligence (IJCAI) 2019. \n
+\[[https://arxiv.org/abs/1903.09109  Arxiv]\]  \[[https://github.com/cjshui/AMTNN Code]\] \[[Files/IJCAI19.pdf Slides]\]
+
+- {{<font color=blue>}}  A Novel Domain Adaptation Theory With Jensen-Shannon Divergence. {{</font>}}\n
+*Changjian Shui*, Qi Chen, Jun Wen, Fan Zhou, Christian Gagné, and Boyu Wang. \n
+Knowledge-Based Systems (KBS) 2022. (Accepted) \n
 
 - Lifelong Online Learning from Accumulated Knowledge. \n
 *Changjian Shui*, Wei Wang, Ihsen Hedhli, Feng Wang, Boyu Wang, and Christian Gagné.\n
 ACM Transactions on Knowledge Discovery from Data (TKDD) 2022. (Accepted) \n
 
-- A Novel Domain Adaptation Theory With Jensen-Shannon Divergence. \n
-*Changjian Shui*, Qi Chen, Jun Wen, Fan Zhou, Christian Gagné, and Boyu Wang. \n
-Knowledge-Based Systems (KBS) 2022. (Accepted) \n
+- Task similarity estimation through adversarial multitask neural network. \n
+Fan Zhou, *Changjian Shui*, Mahdieh Abbasi, Louis-Émile Robitaille, Boyu Wang, Christian Gagné.\n
+IEEE Transcations on Neural Networks and Learning Systems (TNNLS) 2021.
+\[[https://ieeexplore.ieee.org/document/9241847  Paper]\]
+
+- Discriminative Active Learning for Domain Adaptation. \n
+Fan Zhou, *Changjian Shui*, Shichun Yang, Bincheng Huang, Boyu Wang, and Brahim Chaib-draa.\n
+Knowledge-Based Systems (KBS) 2021.
+\[[http://www2.ift.ulaval.ca/~chaib/publications/FAN-KBS.pdf  Paper]\]
+
+- Domain Generalization via Optimal Transport with Metric Similarity Learning. \n
+Fan Zhou, Zhuqing Jiang, *Changjian Shui*, Boyu Wang, Brahim Chaib-draa.\n
+Neurocomputing 2021.
+\[[https://fzhou.cc/files/NeuroComputing_WADG.pdf  Paper]\]
 
 
+=== Active Learning
 
-== Other Highlighted Papers
-
-- Fair Representation Learning through Implicit Path Alignment.\n
-*Changjian Shui*, Qi Chen, Jiaqi Li, Boyu Wang, Christian Gagné.\n
-ICML 2022.\n
-\[[https://arxiv.org/abs/2205.13316 Paper]\]
-\[[https://github.com/cjshui/fair-path Code]\]
-\[[Files/fair_path_short.pdf Slides]\] \n
-
-- On the Benefits of Representation Regularization in Invariance based Domain Generalization.\n
-*Changjian Shui*, Boyu Wang, and Christian Gagné.\n
-Machine Learning Journal 2022.\n
-\[[https://link.springer.com/article/10.1007/s10994-021-06080-w Paper]\]
-\[[https://slideslive.com/38970376/on-the-benefits-of-representation-regularization-in-invariance-based-domain-generalization?ref=speaker-35470-latest Video]\]
-\[[Files/reg.txt Simple Code Demo]\]\n
-
-- Generalization Bounds For Meta-Learning: An Information-Theoretic Analysis. \n
-Qi Chen, *Changjian Shui*, Mario Marchand \n
-NeurIPS 2021. (Spotlight, 3% of submissions) \n
-\[[https://openreview.net/forum?id=9J2wV5E1Aq_  Openreview]\]
-
-- Aggregating From Multiple Target-Shifted Sources.\n
-*Changjian Shui*, Zijian Li, Jiaqi Li, Christian Gagné, Charles Ling, Boyu Wang.\n
-ICML 2021.\n
-\[[https://arxiv.org/abs/2105.04051 Arxiv]\] \[[https://github.com/cjshui/WADN Code]\] \[[Files/icml_presentation.pdf Slides]\]
-\[[https://slideslive.com/38959459/aggregating-from-multiple-targetshifted-sources?ref=speaker-35470-latest Video]\] \n
-
-
-- Deep Active Learning: Unified and Principled Method for Query and Training. \n
+- {{<font color=blue>}} Deep Active Learning: Unified and Principled Method for Query and Training. {{</font>}} \n
 *Changjian Shui*, Fan Zhou, Christian Gagné, Boyu Wang \n
-AISTATS 2020. \n
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2020. \n
 \[[https://arxiv.org/abs/1911.09162  Arxiv]\] \[[https://github.com/cjshui/WAAL  Code]\] \[[Files/deep_active_aistat.pdf Slides]\]
 \[[https://slideslive.com/38930068/deep-active-learning-unified-and-principled-method-for-query-and-training?ref=speaker-35470-latest  Video]\]
 
-- A principled approach for learning task similarity in multitask learning. \n
-*Changjian Shui*, Mahdieh Abbasi, Louis-Émile Robitaille, Boyu Wang, Christian Gagné \n
-IJCAI 2019. \n
-\[[https://arxiv.org/abs/1903.09109  Arxiv]\]  \[[https://github.com/cjshui/AMTNN Code]\] \[[Files/IJCAI19.pdf Slides]\]
+- Information Gain Sampling for Active Learning in Medical Image Classification \n
+Raghav Mehta, *Changjian Shui*, Brennan Nichyporuk, and Tal Arbel \n
+Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE) workshop. MICCAI 2022.
+\[[https://arxiv.org/abs/2208.00974  Paper]\]
+
+=== Applications
+
+- On the Benefits of Two Dimensional Metric Learning. \n
+Di Wu, Fan Zhou, Boyu Wang, Chi Man Wong, *Changjian Shui*, Yuan Zhou, Qicheng Lao, Feng Wan \n
+IEEE Transactions on Knowledge and Data Engineering (TKDE) 2021.
+\[[https://ieeexplore.ieee.org/document/9497697  Paper]\]
+
+- Common Spatial Pattern Reformulated for Regularizations in Brain-Computer Interfaces. \n
+Boyu Wang, Chi Man Wong, Zhao Kang, Feng Liu, *Changjian Shui*, Feng Wan, and C. L. Philip Chen \n
+IEEE Transactions on Cybernetics (TCYB) 2021.
+\[[https://ieeexplore.ieee.org/document/9076261  paper]\]
+
 
 == Thesis
 
 - Principled Deep Learning Approaches for Learning from Limited Labeled Data through Distribution Matching. \n
 *Ph.D Thesis*
-\[[https://corpus.ulaval.ca/jspui/handle/20.500.11794/73028 Link]\]
-
-
+\[[https://corpus.ulaval.ca/handle/20.500.11794/73028 Link]\]
 
 
