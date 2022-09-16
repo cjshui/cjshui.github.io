@@ -3,12 +3,11 @@
 # jemdoc: nodate
 # jemdoc: addcss{../jemdoc.css}
 
-== Publications
-{{<font color=blue>}} * Blue indicates the selected publication.{{</font>}}
+== Selected Publications
 
 === Trustworthy Machine Learning (Fairness, Robustness, Out-of-distribution generalization)
 
-- {{<font color=blue>}} Fair Representation Learning through Implicit Path Alignment. {{</font>}}\n
+-  Fair Representation Learning through Implicit Path Alignment. \n
 *Changjian Shui*, Qi Chen, Jiaqi Li, Boyu Wang, Christian Gagné.\n
 International Conference on Machine Learning (ICML) 2022.\n
 \[[https://arxiv.org/abs/2205.13316 Paper]\]
@@ -16,41 +15,75 @@ International Conference on Machine Learning (ICML) 2022.\n
 \[[https://slideslive.com/38983977/fair-representation-learning-through-implicit-path-alignment Video]\]
 \[[Files/fair_path_short.pdf Slides]\] \n
 
-- {{<font color=blue>}} On the Benefits of Representation Regularization in Invariance based Domain Generalization.{{</font>}}\n
+-  On the Benefits of Representation Regularization in Invariance based Domain Generalization.\n
 *Changjian Shui*, Boyu Wang, and Christian Gagné.\n
 Machine Learning Journal (MLJ) 2022.\n
 \[[https://link.springer.com/article/10.1007/s10994-021-06080-w Paper]\]
 \[[https://slideslive.com/38970376/on-the-benefits-of-representation-regularization-in-invariance-based-domain-generalization?ref=speaker-35470-latest Video]\]
 \[[Files/reg.txt Simple Code Demo]\]\n
 
-
-- Toward Metrics for Differentiating Out-of-Distribution Sets \n
-Mahdieh Abbasi, *Changjian Shui*, Arezoo Rajabi, Christian Gagne, Rakesh Bobba. \n
-European Conference on Artificial Intelligence (ECAI) 2020. \[[https://arxiv.org/abs/1910.08650 Paper]\]
-
-
 === Learning from different distributions (Transfer, Meta and Multitask Learning)
 
-- {{<font color=blue>}} Generalization Bounds For Meta-Learning: An Information-Theoretic Analysis.{{</font>}}\n
+-  Generalization Bounds For Meta-Learning: An Information-Theoretic Analysis.\n
 Qi Chen, *Changjian Shui*, Mario Marchand \n
 Neural Information Processing Systems (NeurIPS) 2021.  ({{<font color=red>}}Spotlight, 3% of submissions{{</font>}}) \n
 \[[https://openreview.net/forum?id=9J2wV5E1Aq_  Openreview]\]
 
-- {{<font color=blue>}} Aggregating From Multiple Target-Shifted Sources.{{</font>}} \n
+-  Aggregating From Multiple Target-Shifted Sources. \n
 *Changjian Shui*, Zijian Li, Jiaqi Li, Christian Gagné, Charles Ling, Boyu Wang.\n
 International Conference on Machine Learning (ICML) 2021.\n
 \[[https://arxiv.org/abs/2105.04051 Paper]\] \[[https://github.com/cjshui/WADN Code]\] \[[Files/icml_presentation.pdf Slides]\]
 \[[https://slideslive.com/38959459/aggregating-from-multiple-targetshifted-sources?ref=speaker-35470-latest Video]\] \n
 
-- {{<font color=blue>}} A principled approach for learning task similarity in multitask learning. {{</font>}}\n
+-  A principled approach for learning task similarity in multitask learning. \n
 *Changjian Shui*, Mahdieh Abbasi, Louis-Émile Robitaille, Boyu Wang, Christian Gagné \n
 International Joint Conference on Artificial Intelligence (IJCAI) 2019. \n
 \[[https://arxiv.org/abs/1903.09109  Paper]\]  \[[https://github.com/cjshui/AMTNN Code]\] \[[Files/IJCAI19.pdf Slides]\]
 
-- {{<font color=blue>}}  A Novel Domain Adaptation Theory With Jensen-Shannon Divergence. {{</font>}}\n
+-   A Novel Domain Adaptation Theory With Jensen-Shannon Divergence. \n
 *Changjian Shui*, Qi Chen, Jun Wen, Fan Zhou, Christian Gagné, and Boyu Wang. \n
 Knowledge-Based Systems (KBS) 2022. \[[https://arxiv.org/abs/2007.15567 Preliminary version]\] \n
 
+=== Active Learning
+
+-  Deep Active Learning: Unified and Principled Method for Query and Training.  \n
+*Changjian Shui*, Fan Zhou, Christian Gagné, Boyu Wang \n
+International Conference on Artificial Intelligence and Statistics (AISTATS) 2020. \n
+\[[https://arxiv.org/abs/1911.09162  Paper]\] \[[https://github.com/cjshui/WAAL  Code]\] \[[Files/deep_active_aistat.pdf Slides]\]
+\[[https://slideslive.com/38930068/deep-active-learning-unified-and-principled-method-for-query-and-training?ref=speaker-35470-latest  Video]\]
+
+
+
+== All Publications
+
+=== 2022
+
+- Evolving Domain Generalization. \[[https://arxiv.org/abs/2206.00047  arxiv]\] \n
+William Wei Wang, Gezheng Xu, Ruizhi Pu, Jiaqi Li, Fan Zhou, *Changjian Shui*, Charles Ling, Christian Gagné, Boyu Wang. \n
+
+- Lifelong Online Learning from Accumulated Knowledge. \n
+*Changjian Shui*, Wei Wang, Ihsen Hedhli, Feng Wang, Boyu Wang, and Christian Gagné.\n
+ACM Transactions on Knowledge Discovery from Data (TKDD) 2022. (Accepted) \n
+
+- Information Gain Sampling for Active Learning in Medical Image Classification \n
+Raghav Mehta, *Changjian Shui*, Brennan Nichyporuk, and Tal Arbel \n
+Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE) workshop. MICCAI 2022.
+\[[https://arxiv.org/abs/2208.00974  Paper]\]
+
+- Gap Minimization for Knowledge Sharing and Transfer. \[[https://arxiv.org/abs/2201.11231  arxiv]\] \n
+Boyu Wang, Jorge Mendez, *Changjian Shui*, Fan Zhou, Di Wu, Christian Gagné, Eric Eaton. \n
+
+=== 2021
+
+- On the Benefits of Two Dimensional Metric Learning. \n
+Di Wu, Fan Zhou, Boyu Wang, Chi Man Wong, *Changjian Shui*, Yuan Zhou, Qicheng Lao, Feng Wan \n
+IEEE Transactions on Knowledge and Data Engineering (TKDE) 2021.
+\[[https://ieeexplore.ieee.org/document/9497697  Paper]\]
+
+- Discriminative Active Learning for Domain Adaptation. \n
+Fan Zhou, *Changjian Shui*, Shichun Yang, Bincheng Huang, Boyu Wang, and Brahim Chaib-draa.\n
+Knowledge-Based Systems (KBS) 2021.
+\[[http://www2.ift.ulaval.ca/~chaib/publications/FAN-KBS.pdf  Paper]\]
 
 - Task similarity estimation through adversarial multitask neural network. \n
 Fan Zhou, *Changjian Shui*, Mahdieh Abbasi, Louis-Émile Robitaille, Boyu Wang, Christian Gagné.\n
@@ -62,49 +95,18 @@ Fan Zhou, Zhuqing Jiang, *Changjian Shui*, Boyu Wang, Brahim Chaib-draa.\n
 Neurocomputing 2021.
 \[[https://fzhou.cc/files/NeuroComputing_WADG.pdf  Paper]\]
 
-
-=== Active Learning
-
-- {{<font color=blue>}} Deep Active Learning: Unified and Principled Method for Query and Training. {{</font>}} \n
-*Changjian Shui*, Fan Zhou, Christian Gagné, Boyu Wang \n
-International Conference on Artificial Intelligence and Statistics (AISTATS) 2020. \n
-\[[https://arxiv.org/abs/1911.09162  Paper]\] \[[https://github.com/cjshui/WAAL  Code]\] \[[Files/deep_active_aistat.pdf Slides]\]
-\[[https://slideslive.com/38930068/deep-active-learning-unified-and-principled-method-for-query-and-training?ref=speaker-35470-latest  Video]\]
-
-- Information Gain Sampling for Active Learning in Medical Image Classification \n
-Raghav Mehta, *Changjian Shui*, Brennan Nichyporuk, and Tal Arbel \n
-Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE) workshop. MICCAI 2022.
-\[[https://arxiv.org/abs/2208.00974  Paper]\]
-
-- Discriminative Active Learning for Domain Adaptation. \n
-Fan Zhou, *Changjian Shui*, Shichun Yang, Bincheng Huang, Boyu Wang, and Brahim Chaib-draa.\n
-Knowledge-Based Systems (KBS) 2021.
-\[[http://www2.ift.ulaval.ca/~chaib/publications/FAN-KBS.pdf  Paper]\]
-
-=== Applied Machine Learning
-
-- Lifelong Online Learning from Accumulated Knowledge. \n
-*Changjian Shui*, Wei Wang, Ihsen Hedhli, Feng Wang, Boyu Wang, and Christian Gagné.\n
-ACM Transactions on Knowledge Discovery from Data (TKDD) 2022. (Accepted) \n
-
-- On the Benefits of Two Dimensional Metric Learning. \n
-Di Wu, Fan Zhou, Boyu Wang, Chi Man Wong, *Changjian Shui*, Yuan Zhou, Qicheng Lao, Feng Wan \n
-IEEE Transactions on Knowledge and Data Engineering (TKDE) 2021.
-\[[https://ieeexplore.ieee.org/document/9497697  Paper]\]
-
 - Common Spatial Pattern Reformulated for Regularizations in Brain-Computer Interfaces. \n
 Boyu Wang, Chi Man Wong, Zhao Kang, Feng Liu, *Changjian Shui*, Feng Wan, and C. L. Philip Chen \n
 IEEE Transactions on Cybernetics (TCYB) 2021.
 \[[https://ieeexplore.ieee.org/document/9076261  paper]\]
 
-=== Preprint
-- Evolving Domain Generalization. \[[https://arxiv.org/abs/2206.00047  arxiv]\] \n
-William Wei Wang, Gezheng Xu, Ruizhi Pu, Jiaqi Li, Fan Zhou, *Changjian Shui*, Charles Ling, Christian Gagné, Boyu Wang. \n
+=== 2020
 
+- Toward Metrics for Differentiating Out-of-Distribution Sets \n
+Mahdieh Abbasi, *Changjian Shui*, Arezoo Rajabi, Christian Gagne, Rakesh Bobba. \n
+European Conference on Artificial Intelligence (ECAI) 2020. \[[https://arxiv.org/abs/1910.08650 Paper]\]
 
-- Gap Minimization for Knowledge Sharing and Transfer. \[[https://arxiv.org/abs/2201.11231  arxiv]\] \n
-Boyu Wang, Jorge Mendez, *Changjian Shui*, Fan Zhou, Di Wu, Christian Gagné, Eric Eaton. \n
-
+=== 2018
 
 - Diversity regularization in deep ensembles. \[[https://arxiv.org/abs/1802.07881  arxiv]\] \n
 *Changjian Shui*, Azadeh Sadat Mozafari, Jonathan Marek, Ihsen Hedhli, Christian Gagné. \n
