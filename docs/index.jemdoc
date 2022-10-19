@@ -25,5 +25,6 @@ out-of-distribution generalization); Applied machine learning (data-mining, heal
 == News
 #- \[Sept. 2020\] Example of {{<font color=red>}}Red Words{{</font>}}
 #- \[Sept. 2020\] Example of {{<font color=red><b>}}Red Bold Words{{</b></font>}}
+- \[Oct 2022\] Our paper "On Learning Fairness and Accuracy on Multiple Subgroups" has been accepted in NeurIPS2022.
 - \[May 2022\] Our paper "Fair Representation Learning through Implicit Path Alignment" has been accepted in ICML2022.
 - \[Feb 2022\] I passed the Ph.D thesis defense.

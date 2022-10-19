@@ -7,7 +7,16 @@
 
 === Trustworthy Machine Learning (Fairness, Robustness, Out-of-distribution generalization)
 
--  Fair Representation Learning through Implicit Path Alignment. \n
+- On Learning Fairness and Accuracy on Multiple Subgroups. \n
+*Changjian Shui*, Gezheng Xu, Qi Chen, Jiaqi Li, Charles Ling, Tal Arbel, Boyu Wang, Christian Gagné. \n
+Neural Information Processing Systems (NeurIPS) 2022.\n
+\[[TBD Paper]\]
+\[[https://github.com/xugezheng/FAMS Code]\]
+\[TBD\]
+\[TBD\] \n
+
+
+- Fair Representation Learning through Implicit Path Alignment. \n
 *Changjian Shui*, Qi Chen, Jiaqi Li, Boyu Wang, Christian Gagné.\n
 International Conference on Machine Learning (ICML) 2022.\n
 \[[https://arxiv.org/abs/2205.13316 Paper]\]
