@@ -10,7 +10,7 @@
 - On Learning Fairness and Accuracy on Multiple Subgroups. \n
 /*Changjian Shui*, Gezheng Xu (Equal Contribution)/, Qi Chen, Jiaqi Li, Charles Ling, Tal Arbel, Boyu Wang, Christian Gagné. \n
 Neural Information Processing Systems (NeurIPS) 2022.\n
-\[[https://arxiv.org/abs/2210.10837 Paper]\]
+\[[https://openreview.net/forum?id=YsRH6uVcx2l Openreview]\]
 \[[https://github.com/xugezheng/FAMS Code]\]
 \[[https://nips.cc/virtual/2022/poster/53824 Video]\]
 \[[https://nips.cc/virtual/2022/spotlight/64935 Spotlight Video]\]\n
@@ -31,7 +31,7 @@ Machine Learning Journal (MLJ) 2022.\n
 \[[https://slideslive.com/38970376/on-the-benefits-of-representation-regularization-in-invariance-based-domain-generalization?ref=speaker-35470-latest Video]\]
 \[[Files/reg.txt Simple Code Demo]\]\n
 
-=== Learning from different distributions (Transfer, Meta and Multitask Learning)
+=== Learning from different distributions (Transfer, Multitask and Meta Learning)
 
 -  Generalization Bounds For Meta-Learning: An Information-Theoretic Analysis.\n
 Qi Chen, *Changjian Shui*, Mario Marchand \n
@@ -68,7 +68,7 @@ International Conference on Artificial Intelligence and Statistics (AISTATS) 202
 == All Publications
 
 === 2023
-- Gap Minimization for Knowledge Sharing and Transfer. \n
+- Gap Minimization for Knowledge Sharing and Transfer. \[[https://arxiv.org/abs/2201.11231  arxiv]\]  \n
 Boyu Wang, Jorge Mendez, *Changjian Shui*, Fan Zhou, Di Wu, Gezheng Xu, Christian Gagné, and Eric Eaton. \n
 Journal of Machine Learning Research (JMLR) 2023. (Accepted) \n
 
@@ -86,8 +86,6 @@ Raghav Mehta, *Changjian Shui*, Brennan Nichyporuk, and Tal Arbel \n
 Uncertainty for Safe Utilization of Machine Learning in Medical Imaging (UNSURE) workshop. MICCAI 2022.
 \[[https://arxiv.org/abs/2208.00974  Paper]\]
 
-- Gap Minimization for Knowledge Sharing and Transfer. \[[https://arxiv.org/abs/2201.11231  arxiv]\] \n
-Boyu Wang, Jorge Mendez, *Changjian Shui*, Fan Zhou, Di Wu, Christian Gagné, Eric Eaton. \n
 
 === 2021
 
