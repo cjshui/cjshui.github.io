@@ -1,6 +1,5 @@
 # jemdoc: menu{MENU}{inv_fair.html}{../}
 # jemdoc: title{Invariance_Fair}
-# jemdoc: nodate
 # jemdoc: addcss{../jemdoc.css}
 
 == Invariance and Learning Fair Representation
