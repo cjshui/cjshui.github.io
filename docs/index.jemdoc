@@ -1,7 +1,5 @@
 # jemdoc: menu{MENU}{index.html}
 # jemdoc: title{Changjian Shui's Homepage}
-
-
 == Changjian Shui
 
 ~~~
@@ -20,7 +18,8 @@ I recently obtained Ph.D. degree from Université Laval, under the supervision o
 out-of-distribution generalization); Applied machine learning (data-mining, healthcare). Open to collaborations on these ideas.
 
 
-== News
+== Recent news
+~~~
 #- \[Sept. 2020\] Example of {{<font color=red>}}Red Words{{</font>}}
 #- \[Sept. 2020\] Example of {{<font color=red><b>}}Red Bold Words{{</b></font>}}r
 - \[May 2023\] Our paper "Mitigating Calibration Bias Without Fixed Attribute Grouping for Improved Fairness in Medical Imaging Analysis" has been accepted in MICCAI (Early acceptance, 14% of submissions).
@@ -31,3 +30,4 @@ See our [https://www.growkudos.com/publications/10.1145%25252F3563947/reader sho
 - \[May 2022\] Our paper "Fair Representation Learning through Implicit Path Alignment" has been accepted in ICML 2022.
 See our [pages/inv_fair.html  blog] for details!
 #- \[Feb 2022\] I passed the Ph.D thesis defense.
+~~~
