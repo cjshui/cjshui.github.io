@@ -21,12 +21,13 @@ out-of-distribution generalization); Applied machine learning (data-mining, heal
 == Recent news
 #- \[Sept. 2020\] Example of {{<font color=red>}}Red Words{{</font>}}
 #- \[Sept. 2020\] Example of {{<font color=red><b>}}Red Bold Words{{</b></font>}}r
+- \[Sep 2023\] Our paper "On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm" has been accepted in NeurIPS 2023.
 - \[Jul 2023\] I am selected as an Expert Reviewer in TMLR (Transactions on Machine Learning Research)!
 - \[May 2023\] Our paper "Mitigating Calibration Bias Without Fixed Attribute Grouping for Improved Fairness in Medical Imaging Analysis" has been accepted in MICCAI (Early acceptance, 14% of submissions).
 - \[Mar 2023\] Our paper "Towards More General Loss and Setting in Unsupervised Domain Adaptation" has been accepted in IEEE Transactions on Knowledge and Data Engineering (TKDE).
 - \[Oct 2022\] Our paper "On Learning Fairness and Accuracy on Multiple Subgroups" has been accepted in NeurIPS 2022 ([https://nips.cc/virtual/2022/spotlight/64935 Spotlight presentation]).
-- \[Sep 2022\] Our paper "Lifelong Online Learning from Accumulated Knowledge" has been accepted in ACM Transactions on Knowledge Discovery from Data (TKDD).
-See our [https://www.growkudos.com/publications/10.1145%25252F3563947/reader showcase] for details!
+#- \[Sep 2022\] Our paper "Lifelong Online Learning from Accumulated Knowledge" has been accepted in ACM Transactions on Knowledge Discovery from Data (TKDD).
+#See our [https://www.growkudos.com/publications/10.1145%25252F3563947/reader showcase] for details!
 - \[May 2022\] Our paper "Fair Representation Learning through Implicit Path Alignment" has been accepted in ICML 2022.
 See our [pages/inv_fair.html  blog] for details!
 #- \[Feb 2022\] I passed the Ph.D thesis defense.

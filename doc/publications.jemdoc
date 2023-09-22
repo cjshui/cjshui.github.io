@@ -36,6 +36,11 @@ Machine Learning Journal (MLJ) 2022.\n
 
 === Learning from limited labeled data (Transfer, Multitask, Meta and Active learning)
 
+-  On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm. \n
+Qi Chen, *Shui Changjian*, Ligong Han, Mario Marchand. \n
+Neural Information Processing Systems (NeurIPS) 2023 \n
+
+
 - Generalization Bounds For Meta-Learning: An Information-Theoretic Analysis.\n
 Qi Chen, *Changjian Shui*, Mario Marchand \n
 Neural Information Processing Systems (NeurIPS) 2021.  ({{<font color=red>}}Spotlight, 3% of submissions{{</font>}}) \n
@@ -82,6 +87,11 @@ ACM Transactions on Knowledge Discovery from Data (TKDD) 2022.  \n
 
 == Recent Publications
 === 2023
+
+-  On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm. \n
+Qi Chen, *Shui Changjian*, Ligong Han, Mario Marchand. \n
+Neural Information Processing Systems (NeurIPS) 2023 \n
+
 
 -  Mitigating Calibration Bias Without Fixed Attribute Grouping for Improved Fairness in Medical Imaging Analysis. \[[https://arxiv.org/abs/2307.01738 Paper]\] \n
 *Changjian Shui*, Justin Szeto, Raghav Mehta, Douglas Arnold, Tal Arbel.  \n
