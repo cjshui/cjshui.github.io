@@ -11,11 +11,11 @@ Ph.D. \n
 ~~~
 
 == About me
-I completed my Postdoc in McGill University/Mila, under the supervision of Prof. [http://www.cim.mcgill.ca/~arbel/ Tal Arbel].
+I recently completed my Postdoc in McGill University/Mila, under the supervision of Prof. [http://www.cim.mcgill.ca/~arbel/ Tal Arbel].
 I obtained Ph.D. degree from Université Laval, under the supervision of Prof. [https://chgagne.github.io/english/ Christian Gagné] and Prof. [https://sites.google.com/site/borriewang/ Boyu Wang].
 
-{{<b>}} Research Interests {{</b>}} Learning limited labeled data (transfer learning, meta-learning, multitask learning, active learning); Trustworthy machine learning (algorithmic fairness, robustness,
-out-of-distribution generalization); Applied machine learning (data-mining, healthcare). 
+{{<b>}} Research Interests {{</b>}} I work on theories and algorithms for reliable (algorithmic fairness, robustness,
+out-of-distribution generalization) and data-efficient machine learning (transfer learning, meta-learning, multitask learning, active learning) and their applications in data mining and health-care.
 
 
 == Recent news
