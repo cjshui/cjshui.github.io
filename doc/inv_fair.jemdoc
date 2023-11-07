@@ -4,8 +4,6 @@
 
 == Invariance and Learning Fair Representation
 
-== Invariance and Learning Fair Representation
-
 === Learning fair representation
 Machine learning algorithms often treated sub-population unfavorably, e.g., predicting the likelihood of crime on the grounds of ethnicity, gender or age.
 The algorithmic fairness is then proposed to mitigate the prediction bias for the /protected feature/ such as gender and age.
