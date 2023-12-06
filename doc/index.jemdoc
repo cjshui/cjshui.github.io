@@ -5,13 +5,13 @@
 ~~~
 {}{img_left}{./photos/image2.jpeg}{alt text}{200px}{200px}{}
 Ph.D. \n
-[https://www.ulaval.ca/en/ Université Laval], [https://mila.quebec/en/person/changjian-shui/ Mila] \n
+[https://www.ulaval.ca/en/ Université Laval], [https://mila.quebec/en/person/changjian-shui/ Mila], Vector Institute \n
 *E-mail*: changjian DOT shui DOT 1 AT ulaval DOT ca \n
 \[[https://scholar.google.com/citations?user=r91NXUgAAAAJ&hl=en Google Scholar]\] \[[https://twitter.com/jmdbsa0012 Twitter]\]
 ~~~
 
 == About me
-I recently completed my Postdoc in McGill University/Mila, under the supervision of Prof. [http://www.cim.mcgill.ca/~arbel/ Tal Arbel].
+I recently started my postdoc fellow at the Vector Institute. Previously, I did my postdoc at McGill University/Mila, under the supervision of Prof. [http://www.cim.mcgill.ca/~arbel/ Tal Arbel].
 I obtained Ph.D. degree from Université Laval, under the supervision of Prof. [https://chgagne.github.io/english/ Christian Gagné] and Prof. [https://sites.google.com/site/borriewang/ Boyu Wang].
 
 {{<b>}} Research Interests {{</b>}} I work on theories and algorithms for reliable  (algorithmic fairness, robustness,
@@ -21,7 +21,7 @@ out-of-distribution generalization) and data-efficient (transfer learning, meta-
 == Recent news
 #- \[Sept. 2020\] Example of {{<font color=red>}}Red Words{{</font>}}
 #- \[Sept. 2020\] Example of {{<font color=red><b>}}Red Bold Words{{</b></font>}}r
-- \[Sep 2023\] Our paper "On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm" has been accepted in NeurIPS 2023.
+- \[Sep 2023\] Our [https://openreview.net/forum?id=DNHGKeOhLl paper] "On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm" has been accepted in NeurIPS 2023.
 - \[Jul 2023\] I am selected as an Expert Reviewer in TMLR (Transactions on Machine Learning Research)!
 - \[May 2023\] Our paper "Mitigating Calibration Bias Without Fixed Attribute Grouping for Improved Fairness in Medical Imaging Analysis" has been accepted in MICCAI (Early acceptance, 14% of submissions).
 - \[Mar 2023\] Our paper "Towards More General Loss and Setting in Unsupervised Domain Adaptation" has been accepted in IEEE Transactions on Knowledge and Data Engineering (TKDE).
