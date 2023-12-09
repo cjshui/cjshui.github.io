@@ -17,18 +17,7 @@ I obtained Ph.D. degree from Université Laval, under the supervision of Prof. [
 {{<b>}} Research Interests {{</b>}} I work on theories and algorithms for reliable  (algorithmic fairness, robustness,
 out-of-distribution generalization) and data-efficient (transfer learning, meta-learning, multitask learning, active learning) machine learning  and their applications in data mining and health-care.
 
-
-== Recent news
-#- \[Sept. 2020\] Example of {{<font color=red>}}Red Words{{</font>}}
-#- \[Sept. 2020\] Example of {{<font color=red><b>}}Red Bold Words{{</b></font>}}r
+== Recent news \[[/news.html More]\]
 - \[Dec 2023\] Our paper "Generalizing Across Temporal Domains with Koopman Operators" is accepted at AAAI 2024.
 - \[Sep 2023\] Our [https://openreview.net/forum?id=DNHGKeOhLl paper] "On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm" is accepted at NeurIPS 2023.
-- \[Jul 2023\] I am selected as an Expert Reviewer in TMLR (Transactions on Machine Learning Research)!
-- \[May 2023\] Our paper "Mitigating Calibration Bias Without Fixed Attribute Grouping for Improved Fairness in Medical Imaging Analysis" is accepted at MICCAI (Early acceptance, 14% of submissions).
-- \[Mar 2023\] Our paper "Towards More General Loss and Setting in Unsupervised Domain Adaptation" is accepted at IEEE Transactions on Knowledge and Data Engineering (TKDE).
-- \[Oct 2022\] Our paper "On Learning Fairness and Accuracy on Multiple Subgroups" is accepted at NeurIPS 2022 ([https://nips.cc/virtual/2022/spotlight/64935 Spotlight presentation]).
-#- \[Sep 2022\] Our paper "Lifelong Online Learning from Accumulated Knowledge" is accepted at ACM Transactions on Knowledge Discovery from Data (TKDD).
-#See our [https://www.growkudos.com/publications/10.1145%25252F3563947/reader showcase] for details!
-#- \[May 2022\] Our paper "Fair Representation Learning through Implicit Path Alignment" is accepted at ICML 2022.
-See our [pages/inv_fair.html  blog] for details!
-#- \[Feb 2022\] I passed the Ph.D thesis defense.
+- \[Sep 2023\] I am invited to be an AC at AISTATS 2024.

@@ -92,13 +92,13 @@ AAAI Conference on Artificial Intelligence (AAAI), 2024 \n
 
 === 2023
 
--  On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm. \n
+- On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm. \n
 Qi Chen, *Shui Changjian*, Ligong Han, Mario Marchand. \n
 \[[https://openreview.net/forum?id=DNHGKeOhLl Openreview]\] \n
 Neural Information Processing Systems (NeurIPS) 2023 \n
 
 
--  Mitigating Calibration Bias Without Fixed Attribute Grouping for Improved Fairness in Medical Imaging Analysis. \[[https://arxiv.org/abs/2307.01738 Paper]\] \n
+- Mitigating Calibration Bias Without Fixed Attribute Grouping for Improved Fairness in Medical Imaging Analysis. \[[https://arxiv.org/abs/2307.01738 Paper]\] \n
 *Changjian Shui*, Justin Szeto, Raghav Mehta, Douglas Arnold, Tal Arbel.  \n
 Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2023 ({{<font color=red>}}Early acceptance, 14% of submissions{{</font>}}) \n
 
