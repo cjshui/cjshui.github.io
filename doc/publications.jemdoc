@@ -35,6 +35,7 @@ Machine Learning Journal (MLJ) 2022.\n
 
 -  On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm. \n
 Qi Chen, *Shui Changjian*, Ligong Han, Mario Marchand. \n
+\[[https://openreview.net/forum?id=DNHGKeOhLl Openreview]\] \n
 Neural Information Processing Systems (NeurIPS) 2023 \n
 
 
@@ -83,10 +84,17 @@ IEEE Transactions on Knowledge and Data Engineering (TKDE) 2023. \n
 ACM Transactions on Knowledge Discovery from Data (TKDD) 2022.  \n
 
 == Recent Publications
+=== 2024
+- Generalizing Across Temporal Domains with Koopman Operators. \n 
+Qiuhao Zeng, Wei Wang, Fan Zhou, Gezheng Xu, Ruizhi Pu, *Changjian Shui*, Christian Gagné, Shichun Yang, Charles Ling, and Boyu Wang. \n 
+AAAI Conference on Artificial Intelligence (AAAI), 2024 \n 
+
+
 === 2023
 
 -  On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm. \n
 Qi Chen, *Shui Changjian*, Ligong Han, Mario Marchand. \n
+\[[https://openreview.net/forum?id=DNHGKeOhLl Openreview]\] \n
 Neural Information Processing Systems (NeurIPS) 2023 \n
 
 
