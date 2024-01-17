@@ -11,14 +11,14 @@ Ph.D. \n
 ~~~
 
 == About me
-I recently started my postdoc fellow at the Vector Institute. Previously, I did my postdoc at McGill University/Mila, under the supervision of Prof. [http://www.cim.mcgill.ca/~arbel/ Tal Arbel].
+I am a postdoc fellow at the Vector Institute. Previously, I did my postdoc at McGill University/Mila, under the supervision of Prof. [http://www.cim.mcgill.ca/~arbel/ Tal Arbel].
 I obtained Ph.D. degree from Université Laval, under the supervision of Prof. [https://chgagne.github.io/english/ Christian Gagné] and Prof. [https://sites.google.com/site/borriewang/ Boyu Wang].
 
-{{<b>}} Research Interests {{</b>}} I work on theories and algorithms for reliable  (algorithmic fairness, robustness,
-out-of-distribution generalization) and data-efficient (transfer learning, meta-learning, multitask learning, active learning) machine learning  and their applications in data mining and health-care.
+{{<b>}} Research Interests {{</b>}} I work on machine learning under distribution shift by developping theories and algorithms for reliable  (algorithmic fairness, robustness,
+out-of-distribution generalization) and data-efficient (transfer learning, meta-learning, multitask learning, active learning) machine learning and their applications in data mining and health-care.
 
 
 == Recent news \[[/news.html archive]\]
+- \[Jan 2024\] Our paper "Latent Trajectory Learning for Limited Timestamps under Distribution Shift over Time" is accepted at ICLR 2024 (Oral, 1.2% of the submission).
 - \[Dec 2023\] Our paper "Generalizing Across Temporal Domains with Koopman Operators" is accepted at AAAI 2024.
 - \[Sep 2023\] Our [https://openreview.net/forum?id=DNHGKeOhLl paper] "On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm" is accepted at NeurIPS 2023.
-- \[Sep 2023\] I am invited to be an AC at AISTATS 2024.
