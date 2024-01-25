@@ -20,5 +20,4 @@ out-of-distribution generalization) and data-efficient (transfer learning, meta-
 
 == Recent news \[[/news.html archive]\]
 - \[Jan 2024\] Our paper "Latent Trajectory Learning for Limited Timestamps under Distribution Shift over Time" is accepted at ICLR 2024 (Oral, 1.2% of the submission).
-- \[Dec 2023\] Our paper "Generalizing Across Temporal Domains with Koopman Operators" is accepted at AAAI 2024.
 - \[Sep 2023\] Our [https://openreview.net/forum?id=DNHGKeOhLl paper] "On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm" is accepted at NeurIPS 2023.
