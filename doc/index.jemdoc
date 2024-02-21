@@ -5,7 +5,7 @@
 ~~~
 {}{img_left}{./photos/image2.jpeg}{alt text}{200px}{200px}{}
 Ph.D. \n
-[https://www.ulaval.ca/en/ Université Laval], [https://mila.quebec/en/person/changjian-shui/ Mila], Vector Institute \n
+[https://www.ulaval.ca/en/ Université Laval], [https://mila.quebec/en/person/changjian-shui/ Mila], [https://vectorinstitute.ai/team/changjian-shui/ Vector Institute] \n
 *E-mail*: changjian DOT shui AT vectorinstitute DOT ai \n
 \[[https://scholar.google.com/citations?user=r91NXUgAAAAJ&hl=en Google Scholar]\] \[[https://twitter.com/jmdbsa0012 Twitter]\]
 ~~~
@@ -14,10 +14,11 @@ Ph.D. \n
 I am a postdoc fellow at the Vector Institute. Previously, I did my postdoc at McGill University/Mila, under the supervision of Prof. [http://www.cim.mcgill.ca/~arbel/ Tal Arbel].
 I obtained Ph.D. degree from Université Laval, under the supervision of Prof. [https://chgagne.github.io/english/ Christian Gagné] and Prof. [https://sites.google.com/site/borriewang/ Boyu Wang].
 
-{{<b>}} Research Interests {{</b>}} I work on machine learning under distribution shift by developping theories and algorithms for reliable  (algorithmic fairness, robustness,
-out-of-distribution generalization) and data-efficient (transfer learning, meta-learning, multitask learning, active learning) machine learning and their applications in data mining and health-care.
+{{<b>}} Research Interests {{</b>}} I work on machine learning under distribution shift by developping theories and algorithms for reliable  ([https://arxiv.org/abs/2210.10837 algorithmic fairness], 
+[https://link.springer.com/article/10.1007/s10994-021-06080-w out-of-distribution generalization]) and data-efficient ([https://proceedings.mlr.press/v139/shui21a.html transfer learning], [https://openreview.net/forum?id=9J2wV5E1Aq_ meta-learning], [https://arxiv.org/abs/1903.09109 multitask learning], [https://proceedings.mlr.press/v108/shui20a.html active learning]) 
+machine learning.  I am also quite interested in their real-world applications such as [https://link.springer.com/chapter/10.1007/978-3-031-43898-1_19 healthcare].
 
 
 == Recent news \[[/news.html archive]\]
-#- \[Jan 2024\] Our paper "Latent Trajectory Learning for Limited Timestamps under Distribution Shift over Time" is accepted at ICLR 2024 (Oral, 1.2% of the submission).
+- \[Jan 2024\] Our paper "Latent Trajectory Learning for Limited Timestamps under Distribution Shift over Time" is accepted at ICLR 2024 (Oral, 1.2% of the submission).
 - \[Sep 2023\] Our [https://openreview.net/forum?id=DNHGKeOhLl paper] "On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm" is accepted at NeurIPS 2023.
