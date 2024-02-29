@@ -14,9 +14,9 @@ Ph.D. \n
 I am a postdoc fellow at the Vector Institute. Previously, I did my postdoc at McGill University/Mila, under the supervision of Prof. [http://www.cim.mcgill.ca/~arbel/ Tal Arbel].
 I obtained Ph.D. degree from Université Laval, under the supervision of Prof. [https://chgagne.github.io/english/ Christian Gagné] and Prof. [https://sites.google.com/site/borriewang/ Boyu Wang].
 
-{{<b>}} Research Interests {{</b>}} I work on machine learning under distribution shift by developping theories and algorithms for reliable  ([https://arxiv.org/abs/2210.10837 algorithmic fairness], 
-[https://link.springer.com/article/10.1007/s10994-021-06080-w out-of-distribution generalization]) and data-efficient ([https://proceedings.mlr.press/v139/shui21a.html transfer learning], [https://openreview.net/forum?id=9J2wV5E1Aq_ meta-learning], [https://arxiv.org/abs/1903.09109 multitask learning], [https://proceedings.mlr.press/v108/shui20a.html active learning]) 
-machine learning.  I am also quite interested in their real-world applications such as [https://link.springer.com/chapter/10.1007/978-3-031-43898-1_19 healthcare].
+{{<b>}} Research Interests {{</b>}} I work on machine learning under distribution shift, developing theories and algorithms for reliable and safe use of AI. For example, [https://arxiv.org/abs/2210.10837 algorithmic fairness], 
+[https://link.springer.com/article/10.1007/s10994-021-06080-w out-of-distribution generalization], [https://proceedings.mlr.press/v139/shui21a.html transfer learning], [https://openreview.net/forum?id=9J2wV5E1Aq_ meta-learning], [https://arxiv.org/abs/1903.09109 multitask learning], [https://proceedings.mlr.press/v108/shui20a.html active learning].  
+I am also quite interested in their real-world applications such as [https://link.springer.com/chapter/10.1007/978-3-031-43898-1_19 healthcare].
 
 
 == Recent news \[[/news.html archive]\]
