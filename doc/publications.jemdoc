@@ -38,7 +38,6 @@ Qi Chen, *Shui Changjian*, Ligong Han, Mario Marchand. \n
 \[[https://openreview.net/forum?id=DNHGKeOhLl Openreview]\] \n
 Neural Information Processing Systems (NeurIPS) 2023 \n
 
-
 - Generalization Bounds For Meta-Learning: An Information-Theoretic Analysis.\n
 Qi Chen, *Changjian Shui*, Mario Marchand \n
 Neural Information Processing Systems (NeurIPS) 2021.  ({{<font color=red>}}Spotlight, 3% of submissions{{</font>}}) \n
@@ -54,10 +53,6 @@ International Conference on Machine Learning (ICML) 2021.\n
 *Changjian Shui*, Mahdieh Abbasi, Louis-Émile Robitaille, Boyu Wang, Christian Gagné \n
 International Joint Conference on Artificial Intelligence (IJCAI) 2019. \n
 \[[https://arxiv.org/abs/1903.09109  Paper]\]  \[[https://github.com/cjshui/AMTNN Code]\] \[[Files/IJCAI19.pdf Slides]\]
-
--   A Novel Domain Adaptation Theory With Jensen-Shannon Divergence. \n
-*Changjian Shui*, Qi Chen, Jun Wen, Fan Zhou, Christian Gagné, and Boyu Wang. \n
-Knowledge-Based Systems (KBS) 2022. \[[https://arxiv.org/abs/2007.15567 Preliminary version]\] \n
 
 -  Deep Active Learning: Unified and Principled Method for Query and Training.  \n
 *Changjian Shui*, Fan Zhou, Christian Gagné, Boyu Wang \n
