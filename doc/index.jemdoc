@@ -14,14 +14,15 @@ Ph.D. \n
 I am a postdoc fellow at the Vector Institute. Previously, I did my postdoc at McGill University/Mila, under the supervision of Prof. [http://www.cim.mcgill.ca/~arbel/ Tal Arbel].
 I obtained Ph.D. degree from Université Laval, under the supervision of Prof. [https://chgagne.github.io/english/ Christian Gagné] and Prof. [https://sites.google.com/site/borriewang/ Boyu Wang].
 
-{{<b>}} Research Interests {{</b>}} I am working on a [https://en.wikipedia.org/wiki/AI_safety reliable] and [https://montrealdeclaration-responsibleai.com/ responsible] use of Machine Learning.
-Specifically, I am intersted in machine learning under distribution shift by developing theories and algorithms. For example, [https://arxiv.org/abs/2210.10837 algorithmic fairness], 
-[https://link.springer.com/article/10.1007/s10994-021-06080-w robustness], [https://proceedings.mlr.press/v139/shui21a.html transfer learning], [https://openreview.net/forum?id=9J2wV5E1Aq_ meta-learning], [https://arxiv.org/abs/1903.09109 multitask learning], [https://proceedings.mlr.press/v108/shui20a.html active learning].
+{{<b>}} Research Interests {{</b>}}  I am working on a [https://en.wikipedia.org/wiki/AI_safety reliable] and [https://montrealdeclaration-responsibleai.com/ responsible] use of Machine Learning, 
+with a particular focus on mitigating [https://en.wikipedia.org/wiki/Fairness_(machine_learning) bias and discrinminations] in machine learning. 
+I believe that tackling these issues is pivotal for ensuring the responsible use of machine learning. My recent papers, such as those presented at ICML 2024, [https://arxiv.org/abs/2210.10837 NeurIPS 2022], [https://arxiv.org/abs/2205.13316 ICML 2022], and [https://arxiv.org/abs/2307.01738 MICCAI 2023], delve into the details of my research in this area. 
+Previously, I worked on reliable machine learning through distribution shift by developing theories and algorithms.  
 
 
 == Recent news \[[/news.html archive]\]
-- \[Jan 2024\] Our paper "Latent Trajectory Learning for Limited Timestamps under Distribution Shift over Time" is accepted at ICLR 2024 (Oral, 1.2% of the submission).
-- \[Sep 2023\] Our [https://openreview.net/forum?id=DNHGKeOhLl paper] "On the Stability-Plasticity Dilemma in Continual Meta-Learning: Theory and Algorithm" is accepted at NeurIPS 2023.
+- \[May 2024\] Our paper "Intersectional Unfairness Discovery" is accepted at ICML 2024.
+
 
 ~~~
 {}{raw}
