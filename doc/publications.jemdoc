@@ -10,6 +10,8 @@
 - Intersectional Unfairness Discovery. \n
 Gezheng Xu, Qi Chen, Charles Ling, Boyu Wang, *Changjian Shui*. \n
 International Conference on Machine Learning (ICML), 2024. \n
+\[[https://arxiv.org/abs/2405.20790 Paper]\]
+\[[https://github.com/xugezheng/BGGN Code]\]
 
 
 - On Learning Fairness and Accuracy on Multiple Subgroups. \n
