@@ -14,10 +14,13 @@ Ph.D. \n
 I am an Assistant Professor at the University of Ottawa. Previously, I was a postdoctoral fellow at the Vector Institute and McGill University/Mila.
 I received my Ph.D. degree from Université Laval in 2022. 
 
-{{<b>}} Research Interests {{</b>}}  I am working on a [https://en.wikipedia.org/wiki/AI_safety reliable] and [https://montrealdeclaration-responsibleai.com/ responsible] use of Machine Learning, 
-with a focus on mitigating [https://en.wikipedia.org/wiki/Fairness_(machine_learning) bias and discrimination] in machine learning. 
+{{<b>}} Research Interests {{</b>}}  I am working on an [https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence ethical], [https://en.wikipedia.org/wiki/AI_safety reliable] and [https://montrealdeclaration-responsibleai.com/ responsible] use of Machine Learning, 
+with a focus on [https://en.wikipedia.org/wiki/Fairness_(machine_learning) fairness and equity] in machine learning. 
 I believe that tackling these issues is pivotal for ensuring the responsible use of machine learning. My recent papers, such as those presented at [https://arxiv.org/abs/2405.20790 ICML 2024], [https://arxiv.org/abs/2210.10837 NeurIPS 2022], [https://arxiv.org/abs/2205.13316 ICML 2022], and [https://arxiv.org/abs/2307.01738 MICCAI 2023], delve into the details of my research in this area. 
 I also work on distribution shift by developing theories and algorithms. My recent [https://reminiscent-swordfish-75c.notion.site/How-distribution-shift-can-facilitate-responsible-machine-learning-5a93c02ed18c48f5a4ab36cc4b33480c?pvs=4 blog] hightlights the relationship between distribution shift and responsible machine learning.
+
+{{<b>}} Teaching {{</b>}} I am currently teaching CSI 5195 Ethics for Artificial Intelligence and ELG 5295 Ethics for Design, AI, and Robotics, 
+which covers equity and fairness; explainability; transparency; and accountability.
 
 
 == Recent news \[[/news.html archive]\]
